@@ -60,6 +60,15 @@ Masker kan fungera för minska smittspridning via en redan smittad person men f�
 ![Exempel 1]({{ site.url }}/assets/mask2.jpg)
 
 
+### 3d printad mask
+
+Det går att 3d printa mask men det krävs då även rätt typ av plast
+
+[NanoHack STL](https://copper3d.com/hackthepandemic/)
+![NanoHack STL]({{ site.url }}/assets/nanohack.png)
+
+
+
 ### Interim Guidance for the Use of Masks to Control Seasonal Influenza Virus Transmission
 #### Symptomatic Persons
 
