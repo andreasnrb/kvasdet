@@ -25,7 +25,7 @@ Om detta ska pågå ett tag så finns det ju lite tips och tricks vi kan använd
 * Använd förhandsbokade matkassar som man hämtar upp i butik
 * Använd hemleverans av matkassar
 
-![Exempel 1]({{ site.url }}/assets/opening-hours.jpg)
+![Exempel 1]({{ site.url }}/assets/opening-hours.png)
 
 
 ## Leveranser
