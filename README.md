@@ -34,6 +34,7 @@ Lär dig mer
 Det finns risker att åka kollektivtrafik då du potentiellt reser tätt och över längre tid. Ovanstående är ett exempel på en längre bussresa som resulterade i flera smittade.
 
 ![Smittade på bussresa]({{ site.url }}/assets/bus.jpg)
+
 [The COVID-19 outbreak and implications to sustainable urban mobility – some observations](https://www.transformative-mobility.org/news/the-covid-19-outbreak-and-implications-to-public-transport-some-observations)
 
 Flera bussbolag har satt upp barriärer mot föraren.
