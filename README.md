@@ -13,7 +13,7 @@ Vi måste få ner antalet smittade på en sådan nivå att vårt sjukvårdssyste
 Ju mer vi anstränger oss ju plattare blir kurvan
 
 ![No attempt vs attempted quarantine]({{ site.url }}/assets/nothing-attempt.png)
-![MOderate distancing vs extreme distancing]({{ site.url }}/assets/moderate-extensive.png)
+![Moderate distancing vs extreme distancing]({{ site.url }}/assets/moderate-extensive.png)
 
 Lär dig mer
 
@@ -28,6 +28,23 @@ Lär dig mer
 ## Hemarbete
 
 * Arbeta hemma om möjligt, träffar du färre personer så minskar även potentiell smittspridning
+
+## Kollektivtrafik kan vara hälsofara
+
+Det finns risker att åka kollektivtrafik då du potentiellt reser tätt och över längre tid. Ovanstående är ett exempel på en längre bussresa som resulterade i flera smittade.
+
+![Smittade på bussresa]({{ site.url }}/assets/bus.jpg)
+[The COVID-19 outbreak and implications to sustainable urban mobility – some observations](https://www.transformative-mobility.org/news/the-covid-19-outbreak-and-implications-to-public-transport-some-observations)
+
+Flera bussbolag har satt upp barriärer mot föraren.
+
+![Barriärer]({{ site.url }}/assets/barriers.jpg)
+
+Att sätta upp plexiglas mellan sätesraderna för att minska att smitta sprids är också något det finns exempel på. Likartad idé som med barriärer på restauranger.
+
+### Handlingsplan för kollektivtrafiken
+
+![Transportation]({{ site.url }}/assets/avoid.jpg)
 
 ## Hygien
 
