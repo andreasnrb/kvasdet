@@ -24,12 +24,15 @@ Vi måste få ner antalet smittade på en sådan nivå att vårt sjukvårdssyste
 
 Ju mer vi anstränger oss ju plattare blir kurvan
 
+* Orange: Antalet smittade
+* Rosa: Antalet som tillfrisknat och är immuna
+
 ![No attempt vs attempted quarantine]({{ site.url }}/assets/nothing-attempt.png)
 ![Moderate distancing vs extreme distancing]({{ site.url }}/assets/moderate-extensive.png)
 
 Lär dig mer
 
-* [ Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator)
+* [ Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiBway_16noAhXD-yoKHffEAYYQFjAAegQIBhAB&url=https%3A%2F%2Fwww.washingtonpost.com%2Fgraphics%2F2020%2Fworld%2Fcorona-simulator%2F&usg=AOvVaw0SB095-JWF150KLERdkmdN/)
 * [Coronavirus: The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56)
 
 
