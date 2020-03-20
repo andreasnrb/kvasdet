@@ -5,6 +5,7 @@ Om detta ska pågå ett tag så finns det ju lite tips och tricks vi kan använd
 
 ## Vid symptom på sjukdom
 * Stanna hemma tills symptomfri plus 10 dagar
+
 ## Hemarbete
 
 * Arbeta hemma om möjligt, träffar du färre personer så minskar även potentiell smittspridning
