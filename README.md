@@ -5,6 +5,7 @@ Om detta ska pågå ett tag så finns det ju lite tips och tricks vi kan använd
 
 Covid-19 påminner ofta om vanlig förkylning eller influensa. De flesta som får sjukdomen blir bara lindrigt sjuka.
 Symtomen kommer oftast omkring fem dagar efter att man har blivit smittad. Ibland kan det dröja upp till 14 dagar.
+
 ![Symptom]({{ site.url }}/assets/symptoms.jpg)
 
 
@@ -16,6 +17,8 @@ Vi måste få ner antalet smittade på en sådan nivå att vårt sjukvårdssyste
 
 {% include youtubePlayer.html id="_J60fQr0GWo" %}
 
+
+**Platta ut kurvan**
 
 ![Flatten the curve]({{ site.url }}/assets/flattencurve_1024.gif)
 
