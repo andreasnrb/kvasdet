@@ -3,6 +3,25 @@
 Om detta ska pågå ett tag så finns det ju lite tips och tricks vi kan använda.
 **Om du har symptom på sjukdom stanna hemma Se [Självtest](https://corona.sll.se)**
 
+
+## Motivation till handling:
+
+Vi måste få ner antalet smittade på en sådan nivå att vårt sjukvårdssystem inte blir överbelastat
+
+![Flatten the curve]({{ site.url }}/assets/flattencurve_1024.gif)
+
+Ju mer vi anstränger oss ju plattare blir kurvan
+
+![Flatten the curve]({{ site.url }}/assets/flatten-curve.gif)
+
+
+Lär dig mer
+
+* [ Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator)
+* [Coronavirus: The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56)
+
+
+
 ## Vid symptom på sjukdom
 * Stanna hemma tills symptomfri plus 10 dagar
 
