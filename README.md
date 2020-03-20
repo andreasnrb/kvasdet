@@ -1,7 +1,12 @@
 # Tips
 
 Om detta ska pågå ett tag så finns det ju lite tips och tricks vi kan använda.
-**Om du har symptom på sjukdom stanna hemma Se [Självtest](https://corona.sll.se)**
+**Om du har symptom på sjukdom stanna hemma.[Gör självtest](https://corona.sll.se)**
+
+Covid-19 påminner ofta om vanlig förkylning eller influensa. De flesta som får sjukdomen blir bara lindrigt sjuka.
+Symtomen kommer oftast omkring fem dagar efter att man har blivit smittad. Ibland kan det dröja upp till 14 dagar.
+![Symptom]({{ site.url }}/assets/symptoms.jpg)
+
 
 
 ## Motivation till handling:
