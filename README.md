@@ -12,8 +12,8 @@ Vi måste få ner antalet smittade på en sådan nivå att vårt sjukvårdssyste
 
 Ju mer vi anstränger oss ju plattare blir kurvan
 
-![Flatten the curve]({{ site.url }}/assets/flatten-curve.gif)
-
+![No attempt vs attempted quarantine]({{ site.url }}/assets/nothing-attempt.png)
+![MOderate distancing vs extreme distancing]({{ site.url }}/assets/moderate-extensive.png)
 
 Lär dig mer
 
