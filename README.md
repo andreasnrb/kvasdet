@@ -3,6 +3,8 @@
 Om detta ska pågå ett tag så finns det ju lite tips och tricks vi kan använda.
 **Om du har symptom på sjukdom stanna hemma Se [Självtest](https://corona.sll.se)**
 
+## Vid symptom på sjukdom
+* Stanna hemma tills symptomfri plus 10 dagar
 ## Hemarbete
 
 * Arbeta hemma om möjligt, träffar du färre personer så minskar även potentiell smittspridning
@@ -58,14 +60,6 @@ Håll avstånd till andra, 2m är ett bra riktmärke som förekommer på flera s
 Masker kan fungera för minska smittspridning via en redan smittad person men för att de ska förhindra att bäraren smittas krävs bra hygien och hantering samt rätt typ av mask.
 
 ![Exempel 1]({{ site.url }}/assets/mask2.jpg)
-
-
-### 3d printad mask
-
-Det går att 3d printa mask men det krävs då även rätt typ av plast
-
-[NanoHack STL](https://copper3d.com/hackthepandemic/)
-![NanoHack STL]({{ site.url }}/assets/nanohack.png)
 
 
 
