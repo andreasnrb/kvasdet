@@ -6,7 +6,11 @@ Om detta ska pågå ett tag så finns det ju lite tips och tricks vi kan använd
 
 ## Motivation till handling:
 
-Vi måste få ner antalet smittade på en sådan nivå att vårt sjukvårdssystem inte blir överbelastat
+
+Vi måste få ner antalet smittade på en sådan nivå att vårt sjukvårdssystem inte blir överbelastat.
+
+Man får inte massiv diárre av covid men vi bör tänka som om man fick det, så vi ställer in oss på att undvika samt sprida den. **Vill du få massiv diarré när springer på stan? Om inte håll avstånd och god hygien**
+
 
 ![Flatten the curve]({{ site.url }}/assets/flattencurve_1024.gif)
 
@@ -25,9 +29,21 @@ Lär dig mer
 ## Vid symptom på sjukdom
 * Stanna hemma tills symptomfri plus 10 dagar
 
+## Hygien
+
+* Tvätta händerna noggrant
+* Använd handsprit vid behov (t.ex ha en flaska i fickan)
+* Undvik att röra vid ansiktet
+* Undvik att röra vid metallhandtag med händerna när du rör dig utanför huset
+
 ## Hemarbete
 
 * Arbeta hemma om möjligt, träffar du färre personer så minskar även potentiell smittspridning
+
+## Folksamling
+
+* Undvik alla större folksamlingar, var inte i rum med fler än 10 personer. Krav i flera länder
+
 
 ## Kollektivtrafik kan vara hälsofara
 
@@ -46,11 +62,6 @@ Att sätta upp plexiglas mellan sätesraderna för att minska att smitta sprids 
 ### Handlingsplan för kollektivtrafiken
 
 ![Transportation]({{ site.url }}/assets/avoid.jpg)
-
-## Hygien
-
-* Tvätta händerna noggrant
-* Använd handsprit vid behov (t.ex ha en flaska i fickan)
 
 ## Köer
 
