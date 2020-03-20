@@ -6,7 +6,7 @@ Om detta ska pågå ett tag så finns det ju lite tips och tricks vi kan använd
 Covid-19 påminner ofta om vanlig förkylning eller influensa. De flesta som får sjukdomen blir bara lindrigt sjuka.
 Symtomen kommer oftast omkring fem dagar efter att man har blivit smittad. Ibland kan det dröja upp till 14 dagar.
 
-![Symptom]({{ site.url }}/assets/symptoms.jpg)
+![Symptom]({{ site.url }}/assets/symptoms.png)
 
 
 
@@ -55,7 +55,7 @@ Lär dig mer
 
 ## Kollektivtrafik kan vara hälsofara
 
-Det finns risker att åka kollektivtrafik då du potentiellt reser tätt och över längre tid. Ovanstående är ett exempel på en längre bussresa som resulterade i flera smittade.
+Det finns risker att åka kollektivtrafik då du potentiellt reser tätt och över längre tid. Nedanstånde är ett exempel på en längre bussresa som resulterade i flera smittade.
 
 ![Smittade på bussresa]({{ site.url }}/assets/bus.jpg)
 
