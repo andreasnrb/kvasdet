@@ -14,7 +14,7 @@ Symtomen kommer oftast omkring fem dagar efter att man har blivit smittad. Iblan
 
 Vi måste få ner antalet smittade på en sådan nivå att vårt sjukvårdssystem inte blir överbelastat.
 
-Man får inte massiv diárre av covid men vi bör tänka som om man fick det, så vi ställer in oss på att undvika samt sprida den. **Vill du få massiv diarré när du springer på stan? Om inte håll avstånd och god hygien.**
+{% include youtubePlayer.html id="_J60fQr0GWo" %}
 
 
 ![Flatten the curve]({{ site.url }}/assets/flattencurve_1024.gif)
